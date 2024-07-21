@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "634152380641",
+    "project_id": "bloodachintha",
+    "storage_bucket": "bloodachintha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634152380641:android:da229ebae3d2e08e742fa0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4t1MEfJAyhd4mY9MmvQMxuj92qZOshyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634152380641:android:b1365d6e9c7a3d82742fa0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4t1MEfJAyhd4mY9MmvQMxuj92qZOshyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
